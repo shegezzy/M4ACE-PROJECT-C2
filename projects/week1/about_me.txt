@@ -1,0 +1,4 @@
+I am learning Node.js because I want to build scalable backend applications
+and understand how servers work behind the scenes. As a cloud and DevOps
+engineer, Node.js will help me connect infrastructure with real-world
+applications and APIs.
