@@ -6,3 +6,9 @@ mkdir week1 week2
   git add README.md
    git commit -m "Add README for Command Line Basics assignment"
    git push
+
+
+cd week1
+touch goals
+sudo vim goals.txt
+

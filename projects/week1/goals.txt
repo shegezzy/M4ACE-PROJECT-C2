@@ -1,0 +1,4 @@
+- Master Git and GitHub
+- Become confident in devops engineering
+- Understand kubernetes deeply
+- Contribute to open source
